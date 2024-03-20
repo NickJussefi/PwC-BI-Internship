@@ -17,10 +17,10 @@ Insights:
 ### Second task
 Bringing insights for customer retention (PhoneNow)
 ![image](https://github.com/NickJussefi/PwC-BI-Internship/assets/153446326/cdd06396-4121-4621-9a00-c176c17f38bc)
-![image](https://github.com/NickJussefi/PwC-BI-Internship/assets/153446326/2ba79c90-327c-4377-b603-fc7939e6e309)
-![image](https://github.com/NickJussefi/PwC-BI-Internship/assets/153446326/ded2f7ed-30d3-4b0b-b9a9-50e70c13c981)
-![image](https://github.com/NickJussefi/PwC-BI-Internship/assets/153446326/7604d7e3-f9ce-4556-9210-77c5188fbd07)
 ![image](https://github.com/NickJussefi/PwC-BI-Internship/assets/153446326/26490f74-8a5b-446d-a439-74be2c1eae19)
+![image](https://github.com/NickJussefi/PwC-BI-Internship/assets/153446326/7604d7e3-f9ce-4556-9210-77c5188fbd07)
+![image](https://github.com/NickJussefi/PwC-BI-Internship/assets/153446326/ded2f7ed-30d3-4b0b-b9a9-50e70c13c981)
+![image](https://github.com/NickJussefi/PwC-BI-Internship/assets/153446326/2ba79c90-327c-4377-b603-fc7939e6e309)
 ![image](https://github.com/NickJussefi/PwC-BI-Internship/assets/153446326/da178f93-df29-4527-9df0-695ff8e90b02)
 
 Insights:
