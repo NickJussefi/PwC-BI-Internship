@@ -8,11 +8,11 @@ Dashboard
 ![image](https://github.com/NickJussefi/PwC-BI-Internship/assets/153446326/c2c0217b-2986-4450-9f17-259572724637)
 
 Insights:
-- Tuesday & Monday, busiest day of the week
+- Tuesdays & Mondays, busiest days of the week
 - 2 p.m., less calls
 - 1 out of every 5 calls not answered
 - 73% problems solved
-- 3.4 satisfaction rate
+- 3.4/5 satisfaction rate
 
 ### Second task
 Bringing insights for customer retention (PhoneNow)
